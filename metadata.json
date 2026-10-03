@@ -1,0 +1,6 @@
+{
+  "name": "Kids Life Skills",
+  "description": "Fun, interactive life skills, habits, games, quizzes, and routines for kids by Awiskar Acharya.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

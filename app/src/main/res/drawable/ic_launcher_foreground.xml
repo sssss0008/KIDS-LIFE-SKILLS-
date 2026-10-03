@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Cape behind star -->
+    <path
+        android:fillColor="#E53935"
+        android:pathData="M40,56 L28,78 C38,82 50,83 54,82 C58,83 70,82 80,78 L68,56 Z" />
+
+    <!-- Shiny Star Body -->
+    <!-- Center (54, 52) -->
+    <path
+        android:fillColor="#FFD54F"
+        android:pathData="M54,26 L61,42 L78,44 L65,56 L69,73 L54,64 L39,73 L43,56 L30,44 L47,42 Z" />
+
+    <!-- Star Shading -->
+    <path
+        android:fillColor="#FFC107"
+        android:pathData="M54,26 L54,64 L69,73 L65,56 L78,44 L61,42 Z" />
+
+    <!-- Cute Eyes -->
+    <path
+        android:fillColor="#212121"
+        android:pathData="M48,48m-2.5,0a2.5,2.5 0,1 1,5 0a2.5,2.5 0,1 1,-5 0" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M49,47m-1,0a1,1 0,1 1,2 0a1,1 0,1 1,-2 0" />
+    <path
+        android:fillColor="#212121"
+        android:pathData="M60,48m-2.5,0a2.5,2.5 0,1 1,5 0a2.5,2.5 0,1 1,-5 0" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M61,47m-1,0a1,1 0,1 1,2 0a1,1 0,1 1,-2 0" />
+
+    <!-- Cheerful Smile -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#D84315"
+        android:strokeWidth="1.8"
+        android:strokeLineCap="round"
+        android:pathData="M49,55 Q54,60 59,55" />
+
+    <!-- Rosy Cheeks -->
+    <path
+        android:fillColor="#FF8A80"
+        android:pathData="M43,53m-2,0a2,2 0,1 1,4 0a2,2 0,1 1,-4 0" />
+    <path
+        android:fillColor="#FF8A80"
+        android:pathData="M65,53m-2,0a2,2 0,1 1,4 0a2,2 0,1 1,-4 0" />
+
+    <!-- Sparkle 1 -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M76,30 L78,35 L83,37 L78,39 L76,44 L74,39 L69,37 L74,35 Z" />
+
+    <!-- Sparkle 2 -->
+    <path
+        android:fillColor="#FFF9C4"
+        android:pathData="M32,32 L33,35 L36,36 L33,37 L32,40 L31,37 L28,36 L31,35 Z" />
+</vector>
